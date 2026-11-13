@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://vivaespaña.tv/user/live-tv/miamitv-latino/31" group-title="Mature",MIAMI TV - USA (+18) | HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo=" tvg-name=" group-title="Mature",TV Adultos Blonde (+18) | HD
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" tvg-name=" group-title="Mature",TV Adultos Brunette (+18) | HD
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" tvg-name=" group-title="Mature",TV Adultos Latina (+18) | HD
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" tvg-name=" group-title="Mature",TV Adultos Live Cams (+18) | HD
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" tvg-name=" group-title="Mature",TV Adultos POV (+18) | HD
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL

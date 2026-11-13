@@ -1,0 +1,398 @@
+{
+ "cinejoy.pk": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/series/{tmdb}",
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}"
+ },
+ "movy.sx": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}",
+  "episode": "/tv/{tmdb}/{season}/{episode}?play=true"
+ },
+ "7movies.ac": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}",
+  "episode": "/tv/{tmdb}/watch?season={season}&episode={episode}"
+ },
+ "arrowtv.net": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}",
+  "episode": "/watch/tv/{tmdb}?season={season}&episode={episode}"
+ },
+ "chillflix.lol": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}",
+  "episode": "/tv/{tmdb}?s={season}&e={episode}"
+ },
+ "popwatch.to": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "kaitotv.com": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}",
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}"
+ },
+ "cinebytv.com": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "streamgoblin.cc": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "cno.to": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/show/{tmdb}",
+  "episode": "/watch/show/{tmdb}/{season}/{episode}"
+ },
+ "consumit.online": {
+  "movie": "/title/{tmdb}",
+  "tv": "/series/{tmdb}",
+  "episode": "/watch/series/{tmdb}?season={season}&episode={episode}"
+ },
+ "meowly.qzz.io": {
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "nexa.mov": {
+  "movie": "/watch/tmdb-movie/{tmdb}",
+  "tv": "/watch/tmdb-tv/{tmdb}",
+  "episode": "/watch/tmdb-tv/{tmdb}/s{season}-e{episode}"
+ },
+ "cinecat.eu": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "aether.st": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "basementx.lol": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "cinefork.net": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "streamwatch.online": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "peestream.in": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "fmfau.com": {
+  "movie": "/media/tmdb-movie-{tmdb}",
+  "tv": "/media/tmdb-tv-{tmdb}"
+ },
+ "kdesa.stream": {
+  "movie": "/media/tmdb-movie-{tmdb}"
+ },
+ "atlantic.st": {
+  "episode": "/watch/{tmdb}/{season}/{episode}",
+  "movie": "/title/movie/{tmdb}",
+  "tv": "/title/tv/{tmdb}"
+ },
+ "shuttletv.su": {
+  "episode": "/watch/{tmdb}?s={season}&e={episode}",
+  "movie": "/watch/{tmdb}",
+  "tv": "/watch/{tmdb}?s=1&e=1"
+ },
+ "flixer.gd": {
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}/1/1"
+ },
+ "meowtv.ru": {
+  "episode": "/play/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "cinelite.xyz": {
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "dulo.mov": {
+  "episode": "/watch/tv/{tmdb}?s={season}&e={episode}",
+  "movie": "/title/movie/{tmdb}",
+  "tv": "/title/tv/{tmdb}"
+ },
+ "lightflix.app": {
+  "episode": "/watch/tv/{tmdb}-{season}-{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "stellar.rip": {
+  "episode": "/watch/tv/{tmdb}-{season}-{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "mapple.fun": {
+  "episode": "/watch/tv/{tmdb}-{season}-{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "moviebite.org": {
+  "episode": "/watch/tv/{tmdb}/season/{season}/episode/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "movienerds.site": {
+  "episode": "/watch/tv/{tmdb}?season={season}&episode={episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "framextv.cc": {
+  "episode": "/watch/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "moovie.fun": {
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "flixzy.mooo.com": {
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "flixtrz.com": {
+  "episode": "/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "fliker.freebuff.app": {
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "rabbitmeow.online": {
+  "episode": "/player/tv/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "cineruv.website": {
+  "episode": "/watch/{tmdb}/{season}/{episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "snowstream.vercel.app": {
+  "episode": "/tv/{tmdb}/watch?season={season}&episode={episode}",
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "m-zone.cc": {
+  "episode": "/watch/tv/{tmdb}?season={season}&episode={episode}",
+  "movie": "/details/movie/{tmdb}",
+  "tv": "/details/tv/{tmdb}"
+ },
+ "kofi.mov": {
+  "episode": "/watch/{tmdb}?type=tv&s={season}&e={episode}",
+  "movie": "/watch/{tmdb}?type=movie",
+  "tv": "/watch/{tmdb}?type=tv"
+ },
+ "7reels.cc": {
+  "episode": "/tv/{tmdb}/watch?s={season}&e={episode}",
+  "movie": "/movie/{tmdb}/watch",
+  "tv": "/tv/{tmdb}/watch"
+ },
+ "candlestream.xyz": {
+  "movie": "/watch/movie/{tmdb}",
+  "episode": "/watch/tv/{tmdb}/{season}/{episode}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "novahd.cc": {
+  "movie": "/watch/m/{tmdb}",
+  "episode": "/watch/s/{tmdb}/{season}/{episode}",
+  "tv": "/s/{tmdb}"
+ },
+ "phland.org": {
+  "movie": "/watch/{tmdb}?me=movie",
+  "episode": "/watch/{tmdb}?s={season}&e={episode}&me=tv",
+  "tv": "/watch/{tmdb}?s=1&e=1&me=tv"
+ },
+ "animex.one": {
+  "anime": "/watch/anime-{anilist}-episode-{episode}"
+ },
+ "nekowatch.xyz": {
+  "anime": "/watch/{anilist}?ep={episode}&audio={audio}",
+  "audio": {
+   "sub": "sub",
+   "dub": "dub"
+  }
+ },
+ "anidap.lol": {
+  "anime": "/watch?id={anilist}&ep={episode}&type={audio}",
+  "audio": {
+   "sub": "sub",
+   "dub": "dub"
+  }
+ },
+ "animey.to": {
+  "anime": "/watch/x-{anilist}?episode={episode}&lang={audio}",
+  "audio": {
+   "sub": "sub",
+   "dub": "dub"
+  }
+ },
+ "anistream.one": {
+  "anime": "/watch/x-{anilist}-episode-{episode}"
+ },
+ "justanime.to": {
+  "anime": "/watch/{anilist}/x/episode/{episode}"
+ },
+ "kazora.cc": {
+  "anime": "/watch/{anilist}?ep={episode}"
+ },
+ "anixo.online": {
+  "anime": "/watch/{anilist}?ep={episode}"
+ },
+ "meguanime.com": {
+  "anime": "/anime/{anilist}/x?ep={episode}"
+ },
+ "anichan.to": {
+  "anime": "/watch/{anilist}/{episode}"
+ },
+ "aniclover.cc": {
+  "anime": "/watch/{anilist}/{episode}"
+ },
+ "jjba.lol": {
+  "anime": "/watch/{anilist}/{episode}"
+ },
+ "yumezone.live": {
+  "anime": "/watch/{anilist}/{episode}"
+ },
+ "animedex.fun": {
+  "anime": "/watch/anime-{anilist}/ep-{episode}"
+ },
+ "anisnatch.top": {
+  "anime": "/anime/watch/{mal}?ep={episode}"
+ },
+ "watchanimez.me": {
+  "anime": "/watch/{anilist}?ep={episode}&cat={audio}",
+  "audio": {
+   "sub": "sub",
+   "dub": "dub"
+  }
+ },
+ "kyren.moe": {
+  "anime": "/player/{anilist}?ep={episode}"
+ },
+ "yomi.to": {
+  "anime": "/watch/x-{anilist}/{episode}"
+ },
+ "zen-bu.cc": {
+  "anime": "/anime/{anilist}/watch/{episode}"
+ },
+ "animelover.site": {
+  "anime": "/watch/{anilist}/episode-{episode}"
+ },
+ "animetvplus.xyz": {
+  "anime": "/watch/x-{mal}/episode-{episode}"
+ },
+ "kawaiianime.cc": {
+  "anime": "/watch/{anilist}?num={episode}"
+ },
+ "nippleflix.com": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "cinema.army": {
+  "tv": "/watch?id={tmdb}&type=tv"
+ },
+ "cinemove.cc": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/show/{tmdb}"
+ },
+ "overlook.cx": {
+  "movie": "/movies/{tmdb}",
+  "tv": "/shows/{tmdb}"
+ },
+ "bingr.one": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "cinetaro.to": {
+  "movie": "/details/{tmdb}?type=movie",
+  "tv": "/details/{tmdb}?type=tv"
+ },
+ "zoryva.me": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "greyboxtv.pages.dev": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "framextv.xyz": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "67movies.st": {
+  "movie": "/details/movie/{tmdb}",
+  "tv": "/details/tv/{tmdb}"
+ },
+ "tonkacine.watch": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "fireflix4.pages.dev": {
+  "movie": "/movie?id={tmdb}",
+  "tv": "/tv?id={tmdb}"
+ },
+ "vidbox.vc": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "zencine.org": {
+  "movie": "/movies/{tmdb}",
+  "tv": "/series/{tmdb}"
+ },
+ "watch.cinewave.qzz.io": {
+  "movie": "/details/movie/{tmdb}",
+  "tv": "/details/tv/{tmdb}"
+ },
+ "cinestream2.kje.us": {
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "cinevibe.cc": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "onoflix.live": {
+  "movie": "/watch/movie/{tmdb}"
+ },
+ "ernax.pro": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/series/{tmdb}"
+ },
+ "milkbox.zapto.org": {
+  "movie": "/movie/{tmdb}"
+ },
+ "cine-nest-nine.vercel.app": {
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "k-drama.in": {
+  "movie": "/detail/movie/x-{tmdb}",
+  "tv": "/detail/tv/x-{tmdb}"
+ },
+ "popcornmovies.ac": {
+  "movie": "/movie/{tmdb}",
+  "tv": "/tv/{tmdb}"
+ },
+ "hivex.stream": {
+  "movie": "/watch/movie/{tmdb}",
+  "tv": "/watch/tv/{tmdb}"
+ },
+ "@late": [
+  "streamcorner",
+  "streamninja"
+ ]
+}

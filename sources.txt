@@ -1,0 +1,11 @@
+# Source list read by app versions 2.20.1 and older (AnantPlay reads AnantPlay/index instead). One entry per line:
+#   label|url        a playlist (M3U / M3U8)
+#   label|url|18     a playlist that is shown only after it is switched on in Settings (18+)
+#   @deeplinks|url   a table of title-page addresses (movie / tv templates per site)
+
+@deeplinks|https://raw.githubusercontent.com/AnantPlay/sources/main/deeplinks.json
+Verified|https://raw.githubusercontent.com/AnantPlay/sources/main/lists/verified.m3u|18
+adultiptv.net|https://raw.githubusercontent.com/AnantPlay/sources/main/lists/adultiptv.m3u|18
+Izanami|https://raw.githubusercontent.com/AnantPlay/sources/main/lists/izanami.m3u|18
+AdihashBCC|https://raw.githubusercontent.com/AnantPlay/sources/main/lists/adihashbcc.m3u|18
+6j9|https://raw.githubusercontent.com/AnantPlay/sources/main/lists/6j9.m3u|18
